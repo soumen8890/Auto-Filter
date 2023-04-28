@@ -59,7 +59,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/CyniteOfficial/Auto-Filter-Bot
+git clone https://github.com/soumen8890/Auto-Filter
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -97,4 +97,4 @@ python3 bot.py
 ```
 
 Cʀᴇᴅɪᴛ ›› [soumen8890](https://telegram.me/soumen8890) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://telegram.me/soumen8890)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [only movie link](https://t.me/+eba-zeDA7TJjN2M1)
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [only movie link](https://telegram.me/+eba-zeDA7TJjN2M1)
