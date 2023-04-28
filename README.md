@@ -5,7 +5,7 @@
   <b>ᎪႮͲϴ-ҒᏆᏞͲᎬᎡ</b>
 </h1>
 <a href="https://www.facebook.com/profile.php?id=100089256142823&mibextid=ZbWKwL">
-  <img src="https://img.shields.io/badge/𝙁𝙊𝙇𝙇𝙊𝙒-red?logo=facebook" width="150">
+  <img src="https://img.shields.io/badge/follow-red?logo=facebook" width="150">
 
 [![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/CyniteOfficial/Auto-Filter-Bot/stargazers)
 [![Forks](https://img.shields.io/github/forks/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=blue)](https://github.com/CyniteOfficial/Auto-Filter-Bot/fork)
@@ -97,4 +97,4 @@ python3 bot.py
 ```
 
 Cʀᴇᴅɪᴛ ›› [soumen8890](https://telegram.me/soumen8890) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://telegram.me/soumen8890)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝙊𝙉𝙇𝙔 𝙈𝙊𝙑𝙄𝙀 𝙇𝙄𝙉𝙆](https://t.me/+eba-zeDA7TJjN2M1)
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [only movie link](https://t.me/+eba-zeDA7TJjN2M1)
